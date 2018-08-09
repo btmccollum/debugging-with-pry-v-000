@@ -1,6 +1,6 @@
 require 'pry'
 
 def plus_two(num)
-	sum = num + 2
-	sum
+	num = num + 2
+	num
 end
